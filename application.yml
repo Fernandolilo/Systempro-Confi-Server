@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: greentig-service
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - '*'
+greentig-service:
+  greeting: "Hello"
+  default-value: "word"
+  
