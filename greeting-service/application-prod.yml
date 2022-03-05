@@ -8,6 +8,6 @@ management:
         include:
         - '*'
 greentig-service:
-  greeting: "Cia"
+  greeting: "Pront"
   default-value: "Mondo"
   
